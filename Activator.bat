@@ -21,3 +21,5 @@ pause
 goto end
 
 :end
+echo You can now close this script by pressing any key.
+pause
